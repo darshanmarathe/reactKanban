@@ -14,4 +14,4 @@ const states  =  [
 ]
 
 
-render(<App States={states} /> , document.getElementById("app"));
+render(<App Title="From Darshan Marathe" /> , document.getElementById("app"));
